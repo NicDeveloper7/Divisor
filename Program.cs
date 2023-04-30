@@ -12,7 +12,7 @@
     //Uso do bool (true or false)
     bool isInvalid = divisor == 0;
 
-    //Laço de repetição if (Se) e else (senao)
+    //Condicional if (Se) e else (senao)
     if(isInvalid)
     {
         Console.WriteLine("Não é possível dividir por zero. ");
